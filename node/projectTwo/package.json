@@ -1,0 +1,20 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "A project to building a node server from scratch usng fastify",
+  "keywords": [
+    "server",
+    "node"
+  ],
+  "license": "ISC",
+  "author": "engineerLettu",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
